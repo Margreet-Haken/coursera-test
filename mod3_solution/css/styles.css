@@ -29,11 +29,11 @@ body {
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
-  float-left;
 }
 
 .container {
-  position: relative;
+  /*
+  position: relative; */
 }
 
 #nav-list {
